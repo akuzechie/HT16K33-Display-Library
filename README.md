@@ -1,7 +1,5 @@
 # HT16K33 Display Library
-Arduino library for HT16K33 4-digit 14-segment display.
-
-List of functions to control HT16K33 display:
+Arduino library for HT16K33 4-digit 14-segment display. List of functions to control HT16K33 display:
 
 dispInit()  : initializes HT16K33 & sets brightness level of display
 
