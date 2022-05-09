@@ -1,14 +1,8 @@
 # HT16K33 Display Library
-Arduino library for HT16K33 4-digit 14-segment display. List of functions to control HT16K33 display:
-
-dispInit()  : initializes HT16K33 & sets brightness level of display
-
-dispClear() : clears 4-digit display
-
-dispChar()  : display alphanumeric character on display digit
-
-dispNum()   : display number between 0 and 9 on display digit
-
-dispNumdp() : display number with decimal point on display digit
-
-dispString(): display 4-character text on display
+List of functions to control HT16K33 display:
+1. Init()  : initializes HT16K33 & sets brightness level of display
+2. Clear() : clears 4-digit display
+3. Num()   : display number (0 to 9) on selected digit
+4. Numdp() : display number with decimal point on selected digit
+5. Char()  : display alphabet character (A to Z) on selected digit
+6. Text()  : display 4-character word on display
