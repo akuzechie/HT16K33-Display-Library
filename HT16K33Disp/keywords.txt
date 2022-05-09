@@ -1,0 +1,20 @@
+###########################################
+# Syntax Coloring Map for HT16K33 Library
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+HT16K33Disp 	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+
+Init	KEYWORD2
+Clear	KEYWORD2
+Char	KEYWORD2
+Text	KEYWORD2
+Num	    KEYWORD2
+Numdp	KEYWORD2
